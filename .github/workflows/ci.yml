@@ -1,0 +1,39 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Typecheck
+        run: npm run typecheck
+
+      - name: Build
+        shell: bash
+        run: |
+          if [ -d CET6-Resources ] && [ -f CET6_1.json ] && [ -f CET6_2.json ] && [ -f CET6_3.json ] && [ -f CET6luan_1.json ]; then
+            npm run build
+          else
+            echo "Skipping build because content resources are not available in this checkout."
+          fi
