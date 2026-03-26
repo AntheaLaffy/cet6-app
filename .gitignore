@@ -37,6 +37,10 @@ src-tauri/gen/android/.cxx/
 *.apk
 *.aab
 *.apks
+*.idsig
+*.keystore
+*.jks
+*.pem
 
 # Editors / OS
 .idea/
