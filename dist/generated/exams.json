@@ -1,0 +1,934 @@
+{
+  "updatedAt": "2026-03-26T08:52:24.794Z",
+  "structuredSessions": [
+    {
+      "id": "cet6-2025-06",
+      "label": "2025.06",
+      "yearMonth": "2025.06",
+      "isStructured": true,
+      "sharedResources": [],
+      "papers": [
+        {
+          "id": "cet6-2025-06-paper-1",
+          "paperNo": 1,
+          "title": "2025.06 第 1 套",
+          "resources": [
+            {
+              "id": "cet6-2025-06-2025年6月六级真题-2025.06六级真题第1套.pdf",
+              "label": "2025.06六级真题第1套",
+              "kind": "paper",
+              "sourcePath": "CET6-Resources/CET6_2025.06/2025年6月六级真题/2025.06六级真题第1套.pdf",
+              "publicPath": "/content-assets/cet6-2025-06/2025.06六级真题第1套.pdf"
+            },
+            {
+              "id": "cet6-2025-06-2025年6月六级答案解析-2025.06英语六级解析第1套.pdf",
+              "label": "2025.06英语六级解析第1套",
+              "kind": "analysis",
+              "sourcePath": "CET6-Resources/CET6_2025.06/2025年6月六级答案解析/2025.06英语六级解析第1套.pdf",
+              "publicPath": "/content-assets/cet6-2025-06/2025.06英语六级解析第1套.pdf"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "cet6-2025-06-paper-2",
+          "paperNo": 2,
+          "title": "2025.06 第 2 套",
+          "resources": [
+            {
+              "id": "cet6-2025-06-2025年6月六级真题-2025.06六级真题第2套.pdf",
+              "label": "2025.06六级真题第2套",
+              "kind": "paper",
+              "sourcePath": "CET6-Resources/CET6_2025.06/2025年6月六级真题/2025.06六级真题第2套.pdf",
+              "publicPath": "/content-assets/cet6-2025-06/2025.06六级真题第2套.pdf"
+            },
+            {
+              "id": "cet6-2025-06-2025年6月六级答案解析-2025.06英语六级解析第2套.pdf",
+              "label": "2025.06英语六级解析第2套",
+              "kind": "analysis",
+              "sourcePath": "CET6-Resources/CET6_2025.06/2025年6月六级答案解析/2025.06英语六级解析第2套.pdf",
+              "publicPath": "/content-assets/cet6-2025-06/2025.06英语六级解析第2套.pdf"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "cet6-2025-06-paper-3",
+          "paperNo": 3,
+          "title": "2025.06 第 3 套",
+          "resources": [
+            {
+              "id": "cet6-2025-06-2025年6月六级真题-2025.06六级真题第3套.pdf",
+              "label": "2025.06六级真题第3套",
+              "kind": "paper",
+              "sourcePath": "CET6-Resources/CET6_2025.06/2025年6月六级真题/2025.06六级真题第3套.pdf",
+              "publicPath": "/content-assets/cet6-2025-06/2025.06六级真题第3套.pdf"
+            },
+            {
+              "id": "cet6-2025-06-2025年6月六级答案解析-2025.06英语六级解析第3套.pdf",
+              "label": "2025.06英语六级解析第3套",
+              "kind": "analysis",
+              "sourcePath": "CET6-Resources/CET6_2025.06/2025年6月六级答案解析/2025.06英语六级解析第3套.pdf",
+              "publicPath": "/content-assets/cet6-2025-06/2025.06英语六级解析第3套.pdf"
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "cet6-2024-12",
+      "label": "2024.12",
+      "yearMonth": "2024.12",
+      "isStructured": true,
+      "sharedResources": [],
+      "papers": [
+        {
+          "id": "cet6-2024-12-paper-1",
+          "paperNo": 1,
+          "title": "2024.12 第 1 套",
+          "resources": [
+            {
+              "id": "cet6-2024-12-2024年12月六级真题-2024.12六级真题第1套.pdf",
+              "label": "2024.12六级真题第1套",
+              "kind": "paper",
+              "sourcePath": "CET6-Resources/CET6_2024.12/2024年12月六级真题/2024.12六级真题第1套.pdf",
+              "publicPath": "/content-assets/cet6-2024-12/2024.12六级真题第1套.pdf"
+            },
+            {
+              "id": "cet6-2024-12-2024年12月六级答案解析-2024.12英语六级解析第1套.pdf",
+              "label": "2024.12英语六级解析第1套",
+              "kind": "analysis",
+              "sourcePath": "CET6-Resources/CET6_2024.12/2024年12月六级答案解析/2024.12英语六级解析第1套.pdf",
+              "publicPath": "/content-assets/cet6-2024-12/2024.12英语六级解析第1套.pdf"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "cet6-2024-12-paper-2",
+          "paperNo": 2,
+          "title": "2024.12 第 2 套",
+          "resources": [
+            {
+              "id": "cet6-2024-12-2024年12月六级真题-2024.12六级真题第2套.pdf",
+              "label": "2024.12六级真题第2套",
+              "kind": "paper",
+              "sourcePath": "CET6-Resources/CET6_2024.12/2024年12月六级真题/2024.12六级真题第2套.pdf",
+              "publicPath": "/content-assets/cet6-2024-12/2024.12六级真题第2套.pdf"
+            },
+            {
+              "id": "cet6-2024-12-2024年12月六级答案解析-2024.12英语六级解析第2套.pdf",
+              "label": "2024.12英语六级解析第2套",
+              "kind": "analysis",
+              "sourcePath": "CET6-Resources/CET6_2024.12/2024年12月六级答案解析/2024.12英语六级解析第2套.pdf",
+              "publicPath": "/content-assets/cet6-2024-12/2024.12英语六级解析第2套.pdf"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "cet6-2024-12-paper-3",
+          "paperNo": 3,
+          "title": "2024.12 第 3 套",
+          "resources": [
+            {
+              "id": "cet6-2024-12-2024年12月六级真题-2024.12六级真题第3套.pdf",
+              "label": "2024.12六级真题第3套",
+              "kind": "paper",
+              "sourcePath": "CET6-Resources/CET6_2024.12/2024年12月六级真题/2024.12六级真题第3套.pdf",
+              "publicPath": "/content-assets/cet6-2024-12/2024.12六级真题第3套.pdf"
+            },
+            {
+              "id": "cet6-2024-12-2024年12月六级答案解析-2024.12英语六级解析第3套.pdf",
+              "label": "2024.12英语六级解析第3套",
+              "kind": "analysis",
+              "sourcePath": "CET6-Resources/CET6_2024.12/2024年12月六级答案解析/2024.12英语六级解析第3套.pdf",
+              "publicPath": "/content-assets/cet6-2024-12/2024.12英语六级解析第3套.pdf"
+            }
+          ],
+          "notes": [
+            {
+              "id": "cet6-2024-12-2024年12月六级听力音频-提示-第3套音频看第3套真题卷说明.txt",
+              "label": "提示：第3套音频看第3套真题卷说明",
+              "kind": "note",
+              "sourcePath": "CET6-Resources/CET6_2024.12/2024年12月六级听力音频/提示：第3套音频看第3套真题卷说明.txt",
+              "publicPath": "/content-assets/cet6-2024-12/提示-第3套音频看第3套真题卷说明.txt"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "cet6-2024-06",
+      "label": "2024.06",
+      "yearMonth": "2024.06",
+      "isStructured": true,
+      "sharedResources": [],
+      "papers": [
+        {
+          "id": "cet6-2024-06-paper-1",
+          "paperNo": 1,
+          "title": "2024.06 第 1 套",
+          "resources": [
+            {
+              "id": "cet6-2024-06-2024年6月第1套英语六级真题【推荐使用PDF版】.docx",
+              "label": "2024年6月第1套英语六级真题【推荐使用PDF版】",
+              "kind": "paper",
+              "sourcePath": "CET6-Resources/CET6_2024.06/2024年6月第1套英语六级真题【推荐使用PDF版】.docx",
+              "publicPath": "/content-assets/cet6-2024-06/2024年6月第1套英语六级真题【推荐使用PDF版】.docx"
+            },
+            {
+              "id": "cet6-2024-06-2024年6月第1套英语六级真题解析.pdf",
+              "label": "2024年6月第1套英语六级真题解析",
+              "kind": "analysis",
+              "sourcePath": "CET6-Resources/CET6_2024.06/2024年6月第1套英语六级真题解析.pdf",
+              "publicPath": "/content-assets/cet6-2024-06/2024年6月第1套英语六级真题解析.pdf"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "cet6-2024-06-paper-2",
+          "paperNo": 2,
+          "title": "2024.06 第 2 套",
+          "resources": [
+            {
+              "id": "cet6-2024-06-2024年6月第2套英语六级真题【推荐使用PDF版】.docx",
+              "label": "2024年6月第2套英语六级真题【推荐使用PDF版】",
+              "kind": "paper",
+              "sourcePath": "CET6-Resources/CET6_2024.06/2024年6月第2套英语六级真题【推荐使用PDF版】.docx",
+              "publicPath": "/content-assets/cet6-2024-06/2024年6月第2套英语六级真题【推荐使用PDF版】.docx"
+            },
+            {
+              "id": "cet6-2024-06-2024年6月第2套英语六级真题解析.pdf",
+              "label": "2024年6月第2套英语六级真题解析",
+              "kind": "analysis",
+              "sourcePath": "CET6-Resources/CET6_2024.06/2024年6月第2套英语六级真题解析.pdf",
+              "publicPath": "/content-assets/cet6-2024-06/2024年6月第2套英语六级真题解析.pdf"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "cet6-2024-06-paper-3",
+          "paperNo": 3,
+          "title": "2024.06 第 3 套",
+          "resources": [
+            {
+              "id": "cet6-2024-06-2024年6月第3套英语六级真题【推荐使用PDF版】.docx",
+              "label": "2024年6月第3套英语六级真题【推荐使用PDF版】",
+              "kind": "paper",
+              "sourcePath": "CET6-Resources/CET6_2024.06/2024年6月第3套英语六级真题【推荐使用PDF版】.docx",
+              "publicPath": "/content-assets/cet6-2024-06/2024年6月第3套英语六级真题【推荐使用PDF版】.docx"
+            },
+            {
+              "id": "cet6-2024-06-2024年6月第3套英语六级真题解析.pdf",
+              "label": "2024年6月第3套英语六级真题解析",
+              "kind": "analysis",
+              "sourcePath": "CET6-Resources/CET6_2024.06/2024年6月第3套英语六级真题解析.pdf",
+              "publicPath": "/content-assets/cet6-2024-06/2024年6月第3套英语六级真题解析.pdf"
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "cet6-2023-12",
+      "label": "2023.12",
+      "yearMonth": "2023.12",
+      "isStructured": true,
+      "sharedResources": [],
+      "papers": [
+        {
+          "id": "cet6-2023-12-paper-1",
+          "paperNo": 1,
+          "title": "2023.12 第 1 套",
+          "resources": [
+            {
+              "id": "cet6-2023-12-2023.12第一套-2023.12六级真题第1套(1).pdf",
+              "label": "2023.12六级真题第1套(1)",
+              "kind": "paper",
+              "sourcePath": "CET6-Resources/CET6_2023.12/2023.12第一套/2023.12六级真题第1套(1).pdf",
+              "publicPath": "/content-assets/cet6-2023-12/2023.12六级真题第1套(1).pdf"
+            },
+            {
+              "id": "cet6-2023-12-2023.12第一套-2023.12英语六级解析第1套(1).pdf",
+              "label": "2023.12英语六级解析第1套(1)",
+              "kind": "analysis",
+              "sourcePath": "CET6-Resources/CET6_2023.12/2023.12第一套/2023.12英语六级解析第1套(1).pdf",
+              "publicPath": "/content-assets/cet6-2023-12/2023.12英语六级解析第1套(1).pdf"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "cet6-2023-12-paper-2",
+          "paperNo": 2,
+          "title": "2023.12 第 2 套",
+          "resources": [
+            {
+              "id": "cet6-2023-12-2023.12第二套-2023.12六级真题第2套(1).pdf",
+              "label": "2023.12六级真题第2套(1)",
+              "kind": "paper",
+              "sourcePath": "CET6-Resources/CET6_2023.12/2023.12第二套/2023.12六级真题第2套(1).pdf",
+              "publicPath": "/content-assets/cet6-2023-12/2023.12六级真题第2套(1).pdf"
+            },
+            {
+              "id": "cet6-2023-12-2023.12第二套-2023.12英语六级解析第2套(1).pdf",
+              "label": "2023.12英语六级解析第2套(1)",
+              "kind": "analysis",
+              "sourcePath": "CET6-Resources/CET6_2023.12/2023.12第二套/2023.12英语六级解析第2套(1).pdf",
+              "publicPath": "/content-assets/cet6-2023-12/2023.12英语六级解析第2套(1).pdf"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "cet6-2023-12-paper-3",
+          "paperNo": 3,
+          "title": "2023.12 第 3 套",
+          "resources": [
+            {
+              "id": "cet6-2023-12-2023.12第三套-2023.12六级真题第3套(1).pdf",
+              "label": "2023.12六级真题第3套(1)",
+              "kind": "paper",
+              "sourcePath": "CET6-Resources/CET6_2023.12/2023.12第三套/2023.12六级真题第3套(1).pdf",
+              "publicPath": "/content-assets/cet6-2023-12/2023.12六级真题第3套(1).pdf"
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "cet6-2023-06",
+      "label": "2023.06",
+      "yearMonth": "2023.06",
+      "isStructured": true,
+      "sharedResources": [],
+      "papers": [
+        {
+          "id": "cet6-2023-06-paper-1",
+          "paperNo": 1,
+          "title": "2023.06 第 1 套",
+          "resources": [
+            {
+              "id": "cet6-2023-06-2023.06第1套-2023.06六级真题第1套.pdf",
+              "label": "2023.06六级真题第1套",
+              "kind": "paper",
+              "sourcePath": "CET6-Resources/CET6_2023.06/2023.06第1套/2023.06六级真题第1套.pdf",
+              "publicPath": "/content-assets/cet6-2023-06/2023.06六级真题第1套.pdf"
+            },
+            {
+              "id": "cet6-2023-06-2023.06第1套-2023.06六级真题第1套详解.pdf",
+              "label": "2023.06六级真题第1套详解",
+              "kind": "paper",
+              "sourcePath": "CET6-Resources/CET6_2023.06/2023.06第1套/2023.06六级真题第1套详解.pdf",
+              "publicPath": "/content-assets/cet6-2023-06/2023.06六级真题第1套详解.pdf"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "cet6-2023-06-paper-2",
+          "paperNo": 2,
+          "title": "2023.06 第 2 套",
+          "resources": [
+            {
+              "id": "cet6-2023-06-2023.06第2套-2023.06六级真题第2套.pdf",
+              "label": "2023.06六级真题第2套",
+              "kind": "paper",
+              "sourcePath": "CET6-Resources/CET6_2023.06/2023.06第2套/2023.06六级真题第2套.pdf",
+              "publicPath": "/content-assets/cet6-2023-06/2023.06六级真题第2套.pdf"
+            },
+            {
+              "id": "cet6-2023-06-2023.06第2套-2023.06六级真题第2套详解.pdf",
+              "label": "2023.06六级真题第2套详解",
+              "kind": "paper",
+              "sourcePath": "CET6-Resources/CET6_2023.06/2023.06第2套/2023.06六级真题第2套详解.pdf",
+              "publicPath": "/content-assets/cet6-2023-06/2023.06六级真题第2套详解.pdf"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "cet6-2023-06-paper-3",
+          "paperNo": 3,
+          "title": "2023.06 第 3 套",
+          "resources": [
+            {
+              "id": "cet6-2023-06-2023.06第3套-2023.06六级真题第3套.pdf",
+              "label": "2023.06六级真题第3套",
+              "kind": "paper",
+              "sourcePath": "CET6-Resources/CET6_2023.06/2023.06第3套/2023.06六级真题第3套.pdf",
+              "publicPath": "/content-assets/cet6-2023-06/2023.06六级真题第3套.pdf"
+            },
+            {
+              "id": "cet6-2023-06-2023.06第3套-2023.06六级真题第3套详解.pdf",
+              "label": "2023.06六级真题第3套详解",
+              "kind": "paper",
+              "sourcePath": "CET6-Resources/CET6_2023.06/2023.06第3套/2023.06六级真题第3套详解.pdf",
+              "publicPath": "/content-assets/cet6-2023-06/2023.06六级真题第3套详解.pdf"
+            }
+          ],
+          "notes": [
+            {
+              "id": "cet6-2023-06-2023.06第3套-第3套听力与第2或第1套完全相同.txt",
+              "label": "第3套听力与第2或第1套完全相同",
+              "kind": "note",
+              "sourcePath": "CET6-Resources/CET6_2023.06/2023.06第3套/第3套听力与第2或第1套完全相同.txt",
+              "publicPath": "/content-assets/cet6-2023-06/第3套听力与第2或第1套完全相同.txt"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "cet6-2022-12",
+      "label": "2022.12",
+      "yearMonth": "2022.12",
+      "isStructured": true,
+      "sharedResources": [],
+      "papers": [
+        {
+          "id": "cet6-2022-12-paper-1",
+          "paperNo": 1,
+          "title": "2022.12 第 1 套",
+          "resources": [
+            {
+              "id": "cet6-2022-12-2022.12第1套-2022.12六级真题第1套.pdf",
+              "label": "2022.12六级真题第1套",
+              "kind": "paper",
+              "sourcePath": "CET6-Resources/CET6_2022.12/2022.12第1套/2022.12六级真题第1套.pdf",
+              "publicPath": "/content-assets/cet6-2022-12/2022.12六级真题第1套.pdf"
+            },
+            {
+              "id": "cet6-2022-12-2022.12第1套-2022.12六级真题第1套答案及详解.pdf",
+              "label": "2022.12六级真题第1套答案及详解",
+              "kind": "analysis",
+              "sourcePath": "CET6-Resources/CET6_2022.12/2022.12第1套/2022.12六级真题第1套答案及详解.pdf",
+              "publicPath": "/content-assets/cet6-2022-12/2022.12六级真题第1套答案及详解.pdf"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "cet6-2022-12-paper-2",
+          "paperNo": 2,
+          "title": "2022.12 第 2 套",
+          "resources": [
+            {
+              "id": "cet6-2022-12-2022.12第2套-2022.12六级真题第2套.pdf",
+              "label": "2022.12六级真题第2套",
+              "kind": "paper",
+              "sourcePath": "CET6-Resources/CET6_2022.12/2022.12第2套/2022.12六级真题第2套.pdf",
+              "publicPath": "/content-assets/cet6-2022-12/2022.12六级真题第2套.pdf"
+            },
+            {
+              "id": "cet6-2022-12-2022.12第2套-2022.12六级真题第2套答案及详解.pdf",
+              "label": "2022.12六级真题第2套答案及详解",
+              "kind": "analysis",
+              "sourcePath": "CET6-Resources/CET6_2022.12/2022.12第2套/2022.12六级真题第2套答案及详解.pdf",
+              "publicPath": "/content-assets/cet6-2022-12/2022.12六级真题第2套答案及详解.pdf"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "cet6-2022-12-paper-3",
+          "paperNo": 3,
+          "title": "2022.12 第 3 套",
+          "resources": [
+            {
+              "id": "cet6-2022-12-2022.12第3套-2022.12六级真题第3套.pdf",
+              "label": "2022.12六级真题第3套",
+              "kind": "paper",
+              "sourcePath": "CET6-Resources/CET6_2022.12/2022.12第3套/2022.12六级真题第3套.pdf",
+              "publicPath": "/content-assets/cet6-2022-12/2022.12六级真题第3套.pdf"
+            },
+            {
+              "id": "cet6-2022-12-2022.12第3套-2022.12六级真题第3套答案及详解.pdf",
+              "label": "2022.12六级真题第3套答案及详解",
+              "kind": "analysis",
+              "sourcePath": "CET6-Resources/CET6_2022.12/2022.12第3套/2022.12六级真题第3套答案及详解.pdf",
+              "publicPath": "/content-assets/cet6-2022-12/2022.12六级真题第3套答案及详解.pdf"
+            }
+          ],
+          "notes": [
+            {
+              "id": "cet6-2022-12-2022.12第3套-第3套听力与第2或第1套完全相同.txt",
+              "label": "第3套听力与第2或第1套完全相同",
+              "kind": "note",
+              "sourcePath": "CET6-Resources/CET6_2022.12/2022.12第3套/第3套听力与第2或第1套完全相同.txt",
+              "publicPath": "/content-assets/cet6-2022-12/第3套听力与第2或第1套完全相同.txt"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "cet6-2022-09",
+      "label": "2022.09",
+      "yearMonth": "2022.09",
+      "isStructured": true,
+      "sharedResources": [],
+      "papers": [
+        {
+          "id": "cet6-2022-09-paper-1",
+          "paperNo": 1,
+          "title": "2022.09 第 1 套",
+          "resources": [],
+          "notes": []
+        },
+        {
+          "id": "cet6-2022-09-paper-2",
+          "paperNo": 2,
+          "title": "2022.09 第 2 套",
+          "resources": [],
+          "notes": []
+        },
+        {
+          "id": "cet6-2022-09-paper-3",
+          "paperNo": 3,
+          "title": "2022.09 第 3 套",
+          "resources": [
+            {
+              "id": "cet6-2022-09-2022.09英语六级解析全3套.pdf",
+              "label": "2022.09英语六级解析全3套",
+              "kind": "analysis",
+              "sourcePath": "CET6-Resources/CET6_2022.09/2022.09英语六级解析全3套.pdf",
+              "publicPath": "/content-assets/cet6-2022-09/2022.09英语六级解析全3套.pdf"
+            },
+            {
+              "id": "cet6-2022-09-2022年09月六级真题全3套.pdf",
+              "label": "2022年09月六级真题全3套",
+              "kind": "paper",
+              "sourcePath": "CET6-Resources/CET6_2022.09/2022年09月六级真题全3套.pdf",
+              "publicPath": "/content-assets/cet6-2022-09/2022年09月六级真题全3套.pdf"
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "cet6-2022-06",
+      "label": "2022.06",
+      "yearMonth": "2022.06",
+      "isStructured": true,
+      "sharedResources": [
+        {
+          "id": "cet6-2022-06-2022.06真题Word-2022年6月英语六级真题-第二套.docx",
+          "label": "2022年6月英语六级真题 第二套",
+          "kind": "paper",
+          "sourcePath": "CET6-Resources/CET6_2022.06/2022.06真题Word/2022年6月英语六级真题 第二套.docx",
+          "publicPath": "/content-assets/cet6-2022-06/2022年6月英语六级真题-第二套.docx"
+        },
+        {
+          "id": "cet6-2022-06-2022.06真题Word-2022年6月英语六级真题第一套.docx",
+          "label": "2022年6月英语六级真题第一套",
+          "kind": "paper",
+          "sourcePath": "CET6-Resources/CET6_2022.06/2022.06真题Word/2022年6月英语六级真题第一套.docx",
+          "publicPath": "/content-assets/cet6-2022-06/2022年6月英语六级真题第一套.docx"
+        },
+        {
+          "id": "cet6-2022-06-2022.06真题Word-2022年6月英语六级真题第三套.docx",
+          "label": "2022年6月英语六级真题第三套",
+          "kind": "paper",
+          "sourcePath": "CET6-Resources/CET6_2022.06/2022.06真题Word/2022年6月英语六级真题第三套.docx",
+          "publicPath": "/content-assets/cet6-2022-06/2022年6月英语六级真题第三套.docx"
+        }
+      ],
+      "papers": [
+        {
+          "id": "cet6-2022-06-paper-1",
+          "paperNo": 1,
+          "title": "2022.06 第 1 套",
+          "resources": [
+            {
+              "id": "cet6-2022-06-2022.06英语六级真题PDF-2022.06六级真题第1套【可复制可搜索,打印首选】.pdf",
+              "label": "2022.06六级真题第1套【可复制可搜索，打印首选】",
+              "kind": "paper",
+              "sourcePath": "CET6-Resources/CET6_2022.06/2022.06英语六级真题PDF/2022.06六级真题第1套【可复制可搜索，打印首选】.pdf",
+              "publicPath": "/content-assets/cet6-2022-06/2022.06六级真题第1套【可复制可搜索,打印首选】.pdf"
+            },
+            {
+              "id": "cet6-2022-06-2022.06英语六级解析-2022.06英语六级考试第1套解析.pdf",
+              "label": "2022.06英语六级考试第1套解析",
+              "kind": "analysis",
+              "sourcePath": "CET6-Resources/CET6_2022.06/2022.06英语六级解析/2022.06英语六级考试第1套解析.pdf",
+              "publicPath": "/content-assets/cet6-2022-06/2022.06英语六级考试第1套解析.pdf"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "cet6-2022-06-paper-2",
+          "paperNo": 2,
+          "title": "2022.06 第 2 套",
+          "resources": [
+            {
+              "id": "cet6-2022-06-2022.06英语六级真题PDF-2022.06六级真题第2套【可复制可搜索,打印首选】.pdf",
+              "label": "2022.06六级真题第2套【可复制可搜索，打印首选】",
+              "kind": "paper",
+              "sourcePath": "CET6-Resources/CET6_2022.06/2022.06英语六级真题PDF/2022.06六级真题第2套【可复制可搜索，打印首选】.pdf",
+              "publicPath": "/content-assets/cet6-2022-06/2022.06六级真题第2套【可复制可搜索,打印首选】.pdf"
+            },
+            {
+              "id": "cet6-2022-06-2022.06英语六级解析-2022.06英语六级真题解析第2套-.pdf",
+              "label": "2022.06英语六级真题解析第2套 ",
+              "kind": "analysis",
+              "sourcePath": "CET6-Resources/CET6_2022.06/2022.06英语六级解析/2022.06英语六级真题解析第2套 .pdf",
+              "publicPath": "/content-assets/cet6-2022-06/2022.06英语六级真题解析第2套.pdf"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "cet6-2022-06-paper-3",
+          "paperNo": 3,
+          "title": "2022.06 第 3 套",
+          "resources": [
+            {
+              "id": "cet6-2022-06-2022.06英语六级真题PDF-2022.06六级真题第3套【可复制可搜索,打印首选】.pdf",
+              "label": "2022.06六级真题第3套【可复制可搜索，打印首选】",
+              "kind": "paper",
+              "sourcePath": "CET6-Resources/CET6_2022.06/2022.06英语六级真题PDF/2022.06六级真题第3套【可复制可搜索，打印首选】.pdf",
+              "publicPath": "/content-assets/cet6-2022-06/2022.06六级真题第3套【可复制可搜索,打印首选】.pdf"
+            },
+            {
+              "id": "cet6-2022-06-2022.06英语六级解析-2022.06英语六级真题解析第3套-.pdf",
+              "label": "2022.06英语六级真题解析第3套 ",
+              "kind": "analysis",
+              "sourcePath": "CET6-Resources/CET6_2022.06/2022.06英语六级解析/2022.06英语六级真题解析第3套 .pdf",
+              "publicPath": "/content-assets/cet6-2022-06/2022.06英语六级真题解析第3套.pdf"
+            }
+          ],
+          "notes": []
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "archiveSessions": [
+    {
+      "id": "cet6-2021-06",
+      "label": "2021.06",
+      "yearMonth": "2021.06",
+      "fileCount": 9
+    },
+    {
+      "id": "cet6-2020-12",
+      "label": "2020.12",
+      "yearMonth": "2020.12",
+      "fileCount": 9
+    },
+    {
+      "id": "cet6-2020-09",
+      "label": "2020.09",
+      "yearMonth": "2020.09",
+      "fileCount": 8
+    },
+    {
+      "id": "cet6-2020-07",
+      "label": "2020.07",
+      "yearMonth": "2020.07",
+      "fileCount": 3
+    },
+    {
+      "id": "cet6-2019-12",
+      "label": "2019.12",
+      "yearMonth": "2019.12",
+      "fileCount": 9
+    },
+    {
+      "id": "cet6-2019-06",
+      "label": "2019.06",
+      "yearMonth": "2019.06",
+      "fileCount": 9
+    },
+    {
+      "id": "cet6-2018-12",
+      "label": "2018.12",
+      "yearMonth": "2018.12",
+      "fileCount": 9
+    },
+    {
+      "id": "cet6-2018-06",
+      "label": "2018.06",
+      "yearMonth": "2018.06",
+      "fileCount": 9
+    },
+    {
+      "id": "cet6-2017-12",
+      "label": "2017.12",
+      "yearMonth": "2017.12",
+      "fileCount": 9
+    },
+    {
+      "id": "cet6-2017-06",
+      "label": "2017.06",
+      "yearMonth": "2017.06",
+      "fileCount": 9
+    },
+    {
+      "id": "cet6-2016-12",
+      "label": "2016.12",
+      "yearMonth": "2016.12",
+      "fileCount": 9
+    },
+    {
+      "id": "cet6-2016-06",
+      "label": "2016.06",
+      "yearMonth": "2016.06",
+      "fileCount": 9
+    },
+    {
+      "id": "cet6-2015-12",
+      "label": "2015.12",
+      "yearMonth": "2015.12",
+      "fileCount": 9
+    },
+    {
+      "id": "cet6-2015-06",
+      "label": "2015.06",
+      "yearMonth": "2015.06",
+      "fileCount": 9
+    },
+    {
+      "id": "cet6-2014-06",
+      "label": "2014.06",
+      "yearMonth": "2014.06",
+      "fileCount": 9
+    },
+    {
+      "id": "cet6-2013-12",
+      "label": "2013.12",
+      "yearMonth": "2013.12",
+      "fileCount": 9
+    },
+    {
+      "id": "cet6-2013-06",
+      "label": "2013.06",
+      "yearMonth": "2013.06",
+      "fileCount": 9
+    }
+  ],
+  "mediaAssets": [
+    {
+      "id": "cet6-2022-06-builtin-audio-1",
+      "kind": "audio",
+      "sourceType": "builtin",
+      "storageRef": "/content-assets/cet6-2022-06/2022年06月六级真题(全1套).mp3",
+      "mimeType": "audio/mpeg",
+      "originLabel": "2022年06月六级真题（全1套）",
+      "createdAt": "2026-03-26T08:52:24.246Z",
+      "sessionId": "cet6-2022-06"
+    },
+    {
+      "id": "cet6-2022-09-builtin-audio-1",
+      "kind": "audio",
+      "sourceType": "builtin",
+      "storageRef": "/content-assets/cet6-2022-09/2022年09月六级真题(全1套).mp3",
+      "mimeType": "audio/mpeg",
+      "originLabel": "2022年09月六级真题（全1套）",
+      "createdAt": "2026-03-26T08:52:24.333Z",
+      "sessionId": "cet6-2022-09"
+    },
+    {
+      "id": "cet6-2022-12-builtin-audio-1",
+      "kind": "audio",
+      "sourceType": "builtin",
+      "storageRef": "/content-assets/cet6-2022-12/2022.12六级真题第1套听力.mp3",
+      "mimeType": "audio/mpeg",
+      "originLabel": "2022.12六级真题第1套听力",
+      "createdAt": "2026-03-26T08:52:24.354Z",
+      "sessionId": "cet6-2022-12"
+    },
+    {
+      "id": "cet6-2022-12-builtin-audio-2",
+      "kind": "audio",
+      "sourceType": "builtin",
+      "storageRef": "/content-assets/cet6-2022-12/2022.12六级真题第2套听力.mp3",
+      "mimeType": "audio/mpeg",
+      "originLabel": "2022.12六级真题第2套听力",
+      "createdAt": "2026-03-26T08:52:24.380Z",
+      "sessionId": "cet6-2022-12"
+    },
+    {
+      "id": "cet6-2023-06-builtin-audio-1",
+      "kind": "audio",
+      "sourceType": "builtin",
+      "storageRef": "/content-assets/cet6-2023-06/2023.06六级真题第1套听力音频.mp3",
+      "mimeType": "audio/mpeg",
+      "originLabel": "2023.06六级真题第1套听力音频",
+      "createdAt": "2026-03-26T08:52:24.428Z",
+      "sessionId": "cet6-2023-06"
+    },
+    {
+      "id": "cet6-2023-06-builtin-audio-2",
+      "kind": "audio",
+      "sourceType": "builtin",
+      "storageRef": "/content-assets/cet6-2023-06/2023.06六级真题第2套听力音频.mp3",
+      "mimeType": "audio/mpeg",
+      "originLabel": "2023.06六级真题第2套听力音频",
+      "createdAt": "2026-03-26T08:52:24.449Z",
+      "sessionId": "cet6-2023-06"
+    },
+    {
+      "id": "cet6-2024-12-builtin-audio-1",
+      "kind": "audio",
+      "sourceType": "builtin",
+      "storageRef": "/content-assets/cet6-2024-12/2024年12月六级听力音频第1套.mp3",
+      "mimeType": "audio/mpeg",
+      "originLabel": "2024年12月六级听力音频第1套",
+      "createdAt": "2026-03-26T08:52:24.570Z",
+      "sessionId": "cet6-2024-12"
+    },
+    {
+      "id": "cet6-2024-12-builtin-audio-2",
+      "kind": "audio",
+      "sourceType": "builtin",
+      "storageRef": "/content-assets/cet6-2024-12/2024年12月六级听力音频第2套.mp3",
+      "mimeType": "audio/mpeg",
+      "originLabel": "2024年12月六级听力音频第2套",
+      "createdAt": "2026-03-26T08:52:24.583Z",
+      "sessionId": "cet6-2024-12"
+    },
+    {
+      "id": "cet6-2025-06-builtin-audio-1",
+      "kind": "audio",
+      "sourceType": "builtin",
+      "storageRef": "/content-assets/cet6-2025-06/2025年6月六级音频1.MP3.mp3",
+      "mimeType": "audio/mpeg",
+      "originLabel": "2025年6月六级音频1",
+      "createdAt": "2026-03-26T08:52:24.651Z",
+      "sessionId": "cet6-2025-06"
+    }
+  ],
+  "builtinBindings": [
+    {
+      "id": "cet6-2022-06-binding-session",
+      "sessionId": "cet6-2022-06",
+      "paperIds": [
+        "cet6-2022-06-paper-1",
+        "cet6-2022-06-paper-2",
+        "cet6-2022-06-paper-3"
+      ],
+      "sectionType": "listening",
+      "assetId": "cet6-2022-06-builtin-audio-1",
+      "bindingSource": "builtin",
+      "confidence": 1,
+      "overrideScope": "session"
+    },
+    {
+      "id": "cet6-2022-09-binding-session",
+      "sessionId": "cet6-2022-09",
+      "paperIds": [
+        "cet6-2022-09-paper-1",
+        "cet6-2022-09-paper-2",
+        "cet6-2022-09-paper-3"
+      ],
+      "sectionType": "listening",
+      "assetId": "cet6-2022-09-builtin-audio-1",
+      "bindingSource": "builtin",
+      "confidence": 1,
+      "overrideScope": "session"
+    },
+    {
+      "id": "cet6-2022-12-binding-paper-1",
+      "sessionId": "cet6-2022-12",
+      "paperIds": [
+        "cet6-2022-12-paper-1"
+      ],
+      "sectionType": "listening",
+      "assetId": "cet6-2022-12-builtin-audio-1",
+      "bindingSource": "builtin",
+      "confidence": 1,
+      "overrideScope": "paper"
+    },
+    {
+      "id": "cet6-2022-12-binding-paper-2",
+      "sessionId": "cet6-2022-12",
+      "paperIds": [
+        "cet6-2022-12-paper-2"
+      ],
+      "sectionType": "listening",
+      "assetId": "cet6-2022-12-builtin-audio-2",
+      "bindingSource": "builtin",
+      "confidence": 1,
+      "overrideScope": "paper"
+    },
+    {
+      "id": "cet6-2023-06-binding-paper-1",
+      "sessionId": "cet6-2023-06",
+      "paperIds": [
+        "cet6-2023-06-paper-1"
+      ],
+      "sectionType": "listening",
+      "assetId": "cet6-2023-06-builtin-audio-1",
+      "bindingSource": "builtin",
+      "confidence": 1,
+      "overrideScope": "paper"
+    },
+    {
+      "id": "cet6-2023-06-binding-paper-2",
+      "sessionId": "cet6-2023-06",
+      "paperIds": [
+        "cet6-2023-06-paper-2"
+      ],
+      "sectionType": "listening",
+      "assetId": "cet6-2023-06-builtin-audio-2",
+      "bindingSource": "builtin",
+      "confidence": 1,
+      "overrideScope": "paper"
+    },
+    {
+      "id": "cet6-2024-12-binding-paper-1",
+      "sessionId": "cet6-2024-12",
+      "paperIds": [
+        "cet6-2024-12-paper-1"
+      ],
+      "sectionType": "listening",
+      "assetId": "cet6-2024-12-builtin-audio-1",
+      "bindingSource": "builtin",
+      "confidence": 1,
+      "overrideScope": "paper"
+    },
+    {
+      "id": "cet6-2024-12-binding-paper-2",
+      "sessionId": "cet6-2024-12",
+      "paperIds": [
+        "cet6-2024-12-paper-2"
+      ],
+      "sectionType": "listening",
+      "assetId": "cet6-2024-12-builtin-audio-2",
+      "bindingSource": "builtin",
+      "confidence": 1,
+      "overrideScope": "paper"
+    },
+    {
+      "id": "cet6-2025-06-binding-session",
+      "sessionId": "cet6-2025-06",
+      "paperIds": [
+        "cet6-2025-06-paper-1",
+        "cet6-2025-06-paper-2",
+        "cet6-2025-06-paper-3"
+      ],
+      "sectionType": "listening",
+      "assetId": "cet6-2025-06-builtin-audio-1",
+      "bindingSource": "builtin",
+      "confidence": 1,
+      "overrideScope": "session"
+    }
+  ]
+}

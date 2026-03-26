@@ -1,0 +1,12 @@
+{
+  "updatedAt": "2026-03-26T08:52:24.794Z",
+  "contentVersion": "2026-03-26",
+  "stats": {
+    "vocabularyCount": 3992,
+    "vocabularyWithRealExamExamples": 1882,
+    "specialCollectionCount": 4,
+    "structuredSessionCount": 8,
+    "archiveSessionCount": 17,
+    "builtinAudioCount": 9
+  }
+}

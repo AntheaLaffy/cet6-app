@@ -1,0 +1,30 @@
+{
+  "name": "cet6-prep-studio",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "generate:content": "node scripts/generate-content.mjs",
+    "dev": "node scripts/generate-content.mjs && vite",
+    "build": "node scripts/generate-content.mjs && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "tauri": "tauri",
+    "tauri:android:init": "tauri android init --ci",
+    "tauri:android:build": "tauri android build"
+  },
+  "dependencies": {
+    "marked": "^17.0.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.10.1",
+    "@types/node": "^22.10.1",
+    "@types/react": "^18.3.11",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.10"
+  }
+}

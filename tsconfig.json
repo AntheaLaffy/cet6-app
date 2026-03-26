@@ -1,0 +1,36 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "useDefineForClassFields": true,
+    "lib": ["DOM", "DOM.Iterable", "ES2022"],
+    "allowJs": false,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "types": ["node"],
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react-jsx",
+    "baseUrl": ".",
+    "paths": {
+      "@cet6/shared": ["packages/shared/src/index.ts"],
+      "@cet6/shared/*": ["packages/shared/src/*"],
+      "@cet6/domain": ["packages/domain/src/types.ts"],
+      "@cet6/domain/*": ["packages/domain/src/*"],
+      "@cet6/content": ["packages/content/src/loaders.ts"],
+      "@cet6/content/*": ["packages/content/src/*"],
+      "@cet6/media": ["packages/media/src/types.ts"],
+      "@cet6/media/*": ["packages/media/src/*"],
+      "@cet6/storage": ["packages/storage/src/index.ts"],
+      "@cet6/storage/*": ["packages/storage/src/*"],
+      "@cet6/ui": ["packages/ui/src/index.tsx"],
+      "@cet6/ui/*": ["packages/ui/src/*"]
+    }
+  },
+  "include": ["apps/web/src", "packages/**/*", "vite.config.ts"]
+}
